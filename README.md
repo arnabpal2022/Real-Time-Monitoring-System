@@ -1,14 +1,5 @@
 # Real Time Monitoring System
 
-**Purpose**  
-Build a real-time monitoring system to track application metrics, infrastructure health, and business events across microservices. The system provides:  
-- Real-time dashboards for Kafka message throughput (explore/buy events)  
-- Service performance metrics (Spring Boot apps)  
-- Container resource monitoring (Docker)  
-- End-user facing dashboard (ReactJS)  
-
----
-
 ### Stacks
 - Java
 - Spring Boot
